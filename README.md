@@ -25,7 +25,7 @@ A deep learning project for **audio emotion recognition** using Mel spectrograms
 - Mel Spectrograms for feature extraction
 
 
-
+```
 ## 🗂️ Project Structure
 
 
@@ -44,7 +44,7 @@ audio-emotion-classification/
 │ └─ app.py # Streamlit frontend
 │
 └─ README.md
-
+```
 
 ---
 
