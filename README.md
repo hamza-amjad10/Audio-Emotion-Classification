@@ -28,7 +28,7 @@ A deep learning project for **audio emotion recognition** using Mel spectrograms
 
 ## 🗂️ Project Structure
 
-
+---
 audio-emotion-classification/
 │
 ├─ Colab_Notebooks/
@@ -45,7 +45,7 @@ audio-emotion-classification/
 │
 └─ README.md
 
-
+---
 ---
 
 ## 🏗️ How to Run
