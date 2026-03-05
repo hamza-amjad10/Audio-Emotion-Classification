@@ -24,11 +24,11 @@ A deep learning project for **audio emotion recognition** using Mel spectrograms
 - Ngrok for public API tunneling
 - Mel Spectrograms for feature extraction
 
----
+
 
 ## 🗂️ Project Structure
 
----
+
 audio-emotion-classification/
 │
 ├─ Colab_Notebooks/
@@ -45,7 +45,7 @@ audio-emotion-classification/
 │
 └─ README.md
 
----
+
 ---
 
 ## 🏗️ How to Run
