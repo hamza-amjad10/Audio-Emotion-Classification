@@ -55,7 +55,7 @@ audio-emotion-classification/
 git clone https://github.com/hamza-amjad10/audio-emotion-classification.git
 
 
-2. Run Flask API
+### 2. Run Flask API
 
 cd api
 
@@ -65,26 +65,28 @@ Your API will run locally at http://127.0.0.1:5000/predict
 
 Use Ngrok if you want a public URL.
 
-3. Run Streamlit App
+### 3. Run Streamlit App
 cd web_app
 streamlit run web_app.py
 
 Upload an audio file (.wav or .mp3) and click Predict Emotion.
 
 The app will show predicted emotion and confidence.
-
+---
 🧠 Dataset
 
 TESS Toronto Emotional Speech Set
 
 14 emotion classes including happy, sad, angry, neutral, fear, surprise, and disgust.
+---
 
 📈 Model Performance
 
 Achieved >97% training accuracy and ~100% validation accuracy.
 
 Confusion matrix and classification report available in the Colab notebook.
-
+---
+---
 💡 Future Improvements
 
 Support longer audio files with dynamic padding.
@@ -92,7 +94,10 @@ Support longer audio files with dynamic padding.
 Add more real-world datasets for better generalization.
 
 Deploy as a fully hosted web app with FastAPI + Streamlit.
+---
 
 👨‍💻 Author
 
-Hamza Amjad – LinkedIn
+Hamza Amjad
+
+AI, Machine Learning, NLP & Deep Learning Enthusiast
